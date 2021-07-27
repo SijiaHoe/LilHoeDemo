@@ -1,0 +1,6 @@
+framework module LilHoeDemo {
+  umbrella header "LilHoeDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

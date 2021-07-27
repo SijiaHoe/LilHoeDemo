@@ -1,0 +1,22 @@
+{
+  "name": "LilHoeDemo",
+  "version": "0.1.0",
+  "summary": "A short description of LilHoeDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sijiahou/LilHoeDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sijiahou": "sijiahou@tencent.com"
+  },
+  "source": {
+    "git": "https://github.com/sijiahou/LilHoeDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LilHoeDemo/Classes/**/*"
+}
