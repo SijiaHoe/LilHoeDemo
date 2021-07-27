@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LilHoeDemo_Example' do
+  pod 'LilHoeDemo', :path => '../'
+
+  target 'LilHoeDemo_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
